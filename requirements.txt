@@ -1,0 +1,15 @@
+rdkit
+pandas
+pyyaml
+matplotlib
+plotly
+kaleido
+scikit-learn==1.0.2
+numpy<2.0
+uncertainty-toolbox
+matplotlib
+seaborn
+ipykernel
+tqdm
+openpyxl
+scipy
